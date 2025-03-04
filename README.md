@@ -11,4 +11,4 @@ This script analyzes basic server performance stats including:
 ```bash
 ./server-stats.sh
 
-This is the link for the project https://github.com/Williethedeveloper/server-stats.git
+This is the link for the project https://roadmap.sh/projects/server-stats
