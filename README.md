@@ -1,5 +1,7 @@
 # Server Stats Script  
 
+## This is the link for the project https://roadmap.sh/projects/server-stats
+
 This script analyzes basic server performance stats including:  
 - CPU usage  
 - Memory usage  
@@ -10,5 +12,4 @@ This script analyzes basic server performance stats including:
 ## 📌 How to Run  
 ```bash
 ./server-stats.sh
-
-This is the link for the project https://roadmap.sh/projects/server-stats
+```
